@@ -1,0 +1,801 @@
+﻿Employee_ID,Name,Gender,Position,Store_ID,Hire_Date
+1,Isabella Jones,Female,Store Manager,15,2020-11-19
+2,James Rodriguez,Male,Cashier,23,2024-11-17
+3,Harper Williams,Female,Supervisor,26,2024-04-10
+4,Alexander Davis,Male,Cashier,42,2020-08-17
+5,Amelia Brown,Female,Stock Associate,8,2020-06-10
+6,Emma Williams,Female,Customer Service Rep,17,2022-08-31
+7,James Brown,Male,Stock Associate,55,2024-03-26
+8,Mia Davis,Female,Stock Associate,48,2022-07-13
+9,Elijah Garcia,Male,Cashier,9,2023-04-19
+10,Alexander Smith,Male,Cashier,29,2023-12-20
+11,Elijah Smith,Male,Supervisor,9,2020-05-25
+12,James Brown,Male,Stock Associate,63,2020-09-27
+13,Amelia Miller,Female,Sales Associate,61,2020-07-12
+14,Isabella Miller,Female,Store Manager,55,2024-11-04
+15,Liam Garcia,Male,Cashier,52,2021-05-24
+16,Henry Williams,Male,Store Manager,58,2021-01-10
+17,Amelia Davis,Female,Stock Associate,10,2020-07-19
+18,Noah Williams,Male,Store Manager,31,2022-09-21
+19,Benjamin Williams,Male,Store Manager,8,2020-01-05
+20,Evelyn Miller,Female,Customer Service Rep,37,2024-02-05
+21,Charlotte Jones,Female,Sales Associate,25,2020-04-29
+22,William Smith,Male,Stock Associate,8,2022-09-03
+23,Liam Williams,Male,Cashier,11,2023-05-03
+24,Benjamin Martinez,Male,Sales Associate,16,2023-03-31
+25,Alexander Miller,Male,Customer Service Rep,11,2023-04-10
+26,Sophia Garcia,Female,Sales Associate,27,2021-06-27
+27,James Garcia,Male,Cashier,59,2020-01-20
+28,Noah Rodriguez,Male,Supervisor,28,2020-09-28
+29,Elijah Jones,Male,Sales Associate,48,2022-06-16
+30,Luna Rodriguez,Female,Supervisor,2,2023-09-20
+31,James Johnson,Male,Customer Service Rep,15,2023-02-07
+32,Sophia Garcia,Female,Sales Associate,27,2023-11-08
+33,Harper Jones,Female,Cashier,63,2020-07-08
+34,Sophia Smith,Female,Supervisor,6,2024-04-28
+35,Charlotte Rodriguez,Female,Customer Service Rep,57,2022-05-25
+36,Noah Williams,Male,Stock Associate,10,2020-03-14
+37,Benjamin Smith,Male,Supervisor,17,2022-01-16
+38,Amelia Johnson,Female,Supervisor,32,2024-05-16
+39,Luna Brown,Female,Sales Associate,20,2024-06-26
+40,Olivia Garcia,Female,Store Manager,23,2024-06-30
+41,Charlotte Miller,Female,Cashier,14,2024-10-24
+42,Elijah Garcia,Male,Supervisor,59,2024-08-07
+43,Liam Miller,Male,Supervisor,25,2021-07-24
+44,Isabella Rodriguez,Female,Supervisor,52,2020-02-26
+45,Charlotte Smith,Female,Cashier,34,2023-05-06
+46,Isabella Martinez,Female,Stock Associate,56,2020-08-24
+47,James Miller,Male,Cashier,6,2022-11-30
+48,William Johnson,Male,Customer Service Rep,56,2021-11-07
+49,Emma Rodriguez,Female,Supervisor,39,2023-09-27
+50,Mia Rodriguez,Female,Sales Associate,38,2021-01-27
+51,Charlotte Miller,Female,Stock Associate,39,2024-09-03
+52,Sophia Miller,Female,Stock Associate,27,2023-05-27
+53,Evelyn Davis,Female,Customer Service Rep,57,2021-03-13
+54,Charlotte Jones,Female,Stock Associate,11,2023-09-21
+55,Emma Jones,Female,Sales Associate,31,2024-07-09
+56,Liam Brown,Male,Store Manager,6,2023-06-05
+57,Mia Miller,Female,Store Manager,25,2022-03-29
+58,Liam Miller,Male,Sales Associate,14,2020-12-26
+59,Olivia Johnson,Female,Store Manager,32,2020-09-30
+60,Evelyn Rodriguez,Female,Store Manager,55,2025-01-11
+61,Evelyn Brown,Female,Customer Service Rep,34,2021-07-21
+62,Amelia Davis,Female,Cashier,36,2024-01-01
+63,James Garcia,Male,Stock Associate,43,2020-06-14
+64,Elijah Williams,Male,Customer Service Rep,50,2021-03-14
+65,Mia Rodriguez,Female,Store Manager,43,2022-05-01
+66,Benjamin Martinez,Male,Customer Service Rep,50,2020-02-10
+67,Evelyn Garcia,Female,Supervisor,1,2024-03-23
+68,Harper Davis,Female,Sales Associate,29,2021-07-12
+69,Olivia Garcia,Female,Customer Service Rep,50,2023-10-22
+70,Lucas Martinez,Male,Stock Associate,17,2020-02-25
+71,Noah Williams,Male,Store Manager,55,2021-01-07
+72,Mia Brown,Female,Store Manager,42,2021-10-31
+73,Sophia Jones,Female,Cashier,54,2022-08-21
+74,William Johnson,Male,Customer Service Rep,29,2020-03-23
+75,Elijah Martinez,Male,Sales Associate,3,2021-05-03
+76,Emma Davis,Female,Customer Service Rep,28,2021-06-08
+77,Alexander Williams,Male,Supervisor,15,2020-08-09
+78,James Miller,Male,Customer Service Rep,49,2021-02-10
+79,Noah Martinez,Male,Cashier,39,2024-06-18
+80,William Garcia,Male,Cashier,55,2022-11-02
+81,Olivia Davis,Female,Cashier,54,2022-06-06
+82,Charlotte Williams,Female,Customer Service Rep,56,2022-12-04
+83,Luna Davis,Female,Store Manager,62,2024-08-18
+84,Isabella Johnson,Female,Supervisor,32,2024-12-10
+85,Lucas Garcia,Male,Cashier,49,2022-10-09
+86,Lucas Garcia,Male,Supervisor,28,2021-11-28
+87,Harper Rodriguez,Female,Sales Associate,2,2020-06-24
+88,Evelyn Davis,Female,Customer Service Rep,31,2023-12-28
+89,Olivia Jones,Female,Sales Associate,12,2022-04-08
+90,Luna Davis,Female,Stock Associate,48,2022-12-23
+91,Harper Garcia,Female,Customer Service Rep,43,2022-07-18
+92,Sophia Johnson,Female,Customer Service Rep,30,2021-01-29
+93,Henry Brown,Male,Sales Associate,24,2024-02-21
+94,Luna Johnson,Female,Sales Associate,37,2021-08-29
+95,Charlotte Smith,Female,Customer Service Rep,39,2022-12-29
+96,Olivia Rodriguez,Female,Supervisor,7,2023-11-29
+97,Emma Martinez,Female,Supervisor,2,2022-08-19
+98,Isabella Smith,Female,Supervisor,24,2024-10-30
+99,Noah Davis,Male,Cashier,52,2023-03-27
+100,Oliver Martinez,Male,Supervisor,20,2020-06-23
+101,Henry Martinez,Male,Stock Associate,54,2024-06-07
+102,Henry Davis,Male,Store Manager,49,2021-08-31
+103,Sophia Martinez,Female,Customer Service Rep,8,2020-07-22
+104,James Williams,Male,Sales Associate,11,2020-12-21
+105,Oliver Miller,Male,Store Manager,1,2023-11-12
+106,Sophia Brown,Female,Supervisor,5,2023-12-18
+107,Emma Jones,Female,Customer Service Rep,30,2023-04-22
+108,Emma Williams,Female,Supervisor,29,2024-08-19
+109,Liam Jones,Male,Stock Associate,22,2024-03-13
+110,Evelyn Davis,Female,Customer Service Rep,16,2021-09-14
+111,Harper Davis,Female,Cashier,64,2023-05-09
+112,Isabella Smith,Female,Cashier,33,2021-04-13
+113,James Williams,Male,Store Manager,6,2022-11-28
+114,Sophia Martinez,Female,Store Manager,24,2023-07-24
+115,Lucas Miller,Male,Supervisor,45,2021-10-19
+116,William Davis,Male,Supervisor,53,2023-09-18
+117,Lucas Garcia,Male,Supervisor,12,2021-10-24
+118,Harper Rodriguez,Female,Store Manager,1,2022-04-26
+119,Henry Martinez,Male,Store Manager,47,2023-07-04
+120,Elijah Rodriguez,Male,Sales Associate,35,2021-08-12
+121,Emma Martinez,Female,Sales Associate,4,2023-12-24
+122,Harper Rodriguez,Female,Store Manager,2,2020-07-09
+123,Lucas Williams,Male,Store Manager,16,2024-01-07
+124,Mia Davis,Female,Sales Associate,62,2022-07-24
+125,Benjamin Martinez,Male,Stock Associate,25,2024-03-08
+126,James Garcia,Male,Stock Associate,54,2021-07-01
+127,Sophia Williams,Female,Store Manager,63,2023-01-08
+128,Isabella Davis,Female,Supervisor,49,2024-11-15
+129,Alexander Brown,Male,Store Manager,50,2020-03-30
+130,Mia Williams,Female,Store Manager,50,2020-03-16
+131,Emma Johnson,Female,Stock Associate,57,2022-07-24
+132,Benjamin Johnson,Male,Store Manager,20,2024-05-19
+133,Luna Johnson,Female,Supervisor,51,2024-10-11
+134,Isabella Rodriguez,Female,Cashier,63,2023-06-18
+135,James Johnson,Male,Store Manager,30,2020-07-20
+136,Lucas Jones,Male,Cashier,22,2020-04-04
+137,James Garcia,Male,Store Manager,46,2020-10-25
+138,Luna Williams,Female,Sales Associate,24,2020-06-10
+139,Luna Davis,Female,Stock Associate,31,2020-10-20
+140,Sophia Jones,Female,Customer Service Rep,59,2020-01-20
+141,Harper Johnson,Female,Store Manager,21,2021-12-08
+142,Mia Davis,Female,Supervisor,33,2021-02-11
+143,Emma Miller,Female,Stock Associate,31,2022-01-05
+144,Sophia Miller,Female,Supervisor,3,2020-01-17
+145,Alexander Jones,Male,Sales Associate,64,2023-05-28
+146,Elijah Williams,Male,Customer Service Rep,33,2020-07-17
+147,James Smith,Male,Stock Associate,57,2022-01-17
+148,James Miller,Male,Sales Associate,42,2021-02-15
+149,Harper Williams,Female,Supervisor,35,2024-08-15
+150,Isabella Davis,Female,Cashier,15,2020-10-15
+151,Harper Johnson,Female,Store Manager,47,2020-01-29
+152,Lucas Jones,Male,Stock Associate,48,2022-02-19
+153,Emma Davis,Female,Cashier,30,2023-06-22
+154,Luna Johnson,Female,Customer Service Rep,29,2024-08-14
+155,Mia Williams,Female,Cashier,15,2020-03-17
+156,Emma Brown,Female,Stock Associate,13,2020-10-04
+157,Isabella Martinez,Female,Customer Service Rep,54,2024-01-28
+158,Emma Martinez,Female,Store Manager,63,2021-07-26
+159,Amelia Davis,Female,Sales Associate,57,2024-10-17
+160,William Smith,Male,Store Manager,46,2021-07-19
+161,Lucas Brown,Male,Customer Service Rep,12,2023-08-02
+162,Liam Brown,Male,Sales Associate,43,2024-05-30
+163,Noah Martinez,Male,Sales Associate,27,2024-07-23
+164,Charlotte Jones,Female,Sales Associate,1,2020-09-23
+165,Charlotte Smith,Female,Sales Associate,15,2020-01-31
+166,Alexander Smith,Male,Sales Associate,42,2021-06-27
+167,Benjamin Johnson,Male,Store Manager,15,2022-07-07
+168,Lucas Martinez,Male,Cashier,29,2024-01-29
+169,Evelyn Smith,Female,Store Manager,4,2024-10-01
+170,Emma Davis,Female,Cashier,63,2025-01-15
+171,Luna Johnson,Female,Sales Associate,19,2021-07-17
+172,Mia Davis,Female,Stock Associate,38,2023-05-24
+173,Noah Miller,Male,Store Manager,28,2024-12-23
+174,Isabella Miller,Female,Store Manager,59,2024-02-03
+175,Mia Jones,Female,Supervisor,41,2020-11-08
+176,Noah Johnson,Male,Store Manager,11,2020-07-16
+177,Henry Martinez,Male,Stock Associate,8,2023-02-24
+178,Benjamin Miller,Male,Customer Service Rep,46,2020-04-15
+179,Isabella Martinez,Female,Stock Associate,14,2021-03-11
+180,Amelia Garcia,Female,Stock Associate,14,2022-01-22
+181,Luna Miller,Female,Stock Associate,29,2024-04-20
+182,Alexander Smith,Male,Sales Associate,35,2021-07-13
+183,Isabella Williams,Female,Sales Associate,1,2023-03-05
+184,Emma Smith,Female,Cashier,19,2024-03-08
+185,Benjamin Davis,Male,Supervisor,54,2020-11-18
+186,Isabella Smith,Female,Sales Associate,11,2020-11-18
+187,Noah Davis,Male,Customer Service Rep,35,2022-05-18
+188,Mia Brown,Female,Stock Associate,35,2020-08-21
+189,Emma Martinez,Female,Store Manager,37,2022-12-15
+190,Elijah Martinez,Male,Cashier,51,2020-01-16
+191,Amelia Jones,Female,Supervisor,18,2021-11-02
+192,Lucas Williams,Male,Sales Associate,56,2022-02-17
+193,Henry Johnson,Male,Store Manager,46,2024-10-30
+194,Olivia Johnson,Female,Supervisor,59,2023-03-25
+195,Mia Johnson,Female,Store Manager,38,2020-02-12
+196,Alexander Garcia,Male,Cashier,59,2022-06-13
+197,Benjamin Rodriguez,Male,Cashier,52,2022-03-21
+198,Amelia Williams,Female,Cashier,43,2022-11-11
+199,Henry Garcia,Male,Supervisor,25,2024-01-29
+200,Elijah Williams,Male,Supervisor,14,2021-02-08
+201,Noah Davis,Male,Store Manager,23,2024-03-25
+202,Luna Garcia,Female,Sales Associate,42,2022-06-19
+203,Evelyn Jones,Female,Stock Associate,39,2020-04-25
+204,James Davis,Male,Cashier,60,2020-04-26
+205,Emma Martinez,Female,Stock Associate,12,2022-11-04
+206,Luna Davis,Female,Stock Associate,6,2023-08-27
+207,Luna Rodriguez,Female,Sales Associate,61,2020-05-06
+208,William Rodriguez,Male,Customer Service Rep,11,2020-12-19
+209,Lucas Rodriguez,Male,Stock Associate,57,2023-06-02
+210,Isabella Miller,Female,Store Manager,37,2024-05-05
+211,William Garcia,Male,Cashier,9,2023-02-16
+212,Sophia Garcia,Female,Cashier,20,2023-04-08
+213,Sophia Williams,Female,Stock Associate,51,2023-12-22
+214,Harper Garcia,Female,Sales Associate,49,2023-10-04
+215,Benjamin Smith,Male,Supervisor,47,2021-09-24
+216,William Brown,Male,Sales Associate,63,2020-10-08
+217,James Rodriguez,Male,Stock Associate,13,2024-09-06
+218,William Martinez,Male,Store Manager,17,2020-11-11
+219,Alexander Davis,Male,Cashier,22,2022-04-21
+220,Lucas Davis,Male,Sales Associate,37,2022-12-29
+221,Evelyn Garcia,Female,Customer Service Rep,25,2023-03-14
+222,Sophia Rodriguez,Female,Stock Associate,49,2022-05-07
+223,Alexander Jones,Male,Cashier,18,2023-08-06
+224,Harper Rodriguez,Female,Cashier,14,2021-08-06
+225,James Rodriguez,Male,Sales Associate,58,2024-08-28
+226,Elijah Garcia,Male,Cashier,58,2022-04-29
+227,Harper Brown,Female,Store Manager,48,2020-06-16
+228,Liam Johnson,Male,Customer Service Rep,41,2023-08-24
+229,Oliver Jones,Male,Store Manager,5,2023-11-26
+230,Evelyn Johnson,Female,Cashier,1,2021-06-08
+231,Henry Johnson,Male,Supervisor,55,2021-05-01
+232,Liam Miller,Male,Customer Service Rep,31,2024-06-13
+233,Emma Davis,Female,Stock Associate,15,2023-01-02
+234,Oliver Miller,Male,Cashier,38,2023-06-13
+235,Alexander Williams,Male,Customer Service Rep,54,2023-09-30
+236,Emma Miller,Female,Store Manager,3,2020-03-30
+237,Isabella Smith,Female,Supervisor,33,2024-06-02
+238,Amelia Martinez,Female,Customer Service Rep,14,2024-03-29
+239,Liam Rodriguez,Male,Supervisor,46,2024-07-24
+240,Lucas Williams,Male,Sales Associate,62,2020-05-09
+241,James Smith,Male,Sales Associate,26,2024-12-19
+242,Sophia Rodriguez,Female,Store Manager,51,2021-06-02
+243,James Smith,Male,Customer Service Rep,46,2021-11-10
+244,William Miller,Male,Customer Service Rep,56,2022-06-19
+245,Charlotte Davis,Female,Supervisor,64,2024-06-20
+246,Emma Johnson,Female,Store Manager,55,2023-05-18
+247,Isabella Johnson,Female,Supervisor,14,2023-09-15
+248,Evelyn Williams,Female,Customer Service Rep,55,2022-06-28
+249,Olivia Martinez,Female,Store Manager,46,2021-07-16
+250,Noah Garcia,Male,Stock Associate,52,2024-06-28
+251,Oliver Smith,Male,Sales Associate,57,2020-05-17
+252,Isabella Martinez,Female,Cashier,50,2023-05-24
+253,Isabella Davis,Female,Cashier,48,2023-03-21
+254,Mia Jones,Female,Sales Associate,41,2020-08-20
+255,Lucas Rodriguez,Male,Cashier,50,2021-06-20
+256,Amelia Davis,Female,Sales Associate,37,2020-09-08
+257,Lucas Davis,Male,Cashier,23,2024-07-17
+258,Emma Jones,Female,Sales Associate,38,2023-12-28
+259,William Johnson,Male,Sales Associate,29,2024-06-10
+260,Lucas Garcia,Male,Stock Associate,4,2023-03-18
+261,Harper Martinez,Female,Cashier,17,2020-05-14
+262,Evelyn Miller,Female,Stock Associate,53,2020-05-31
+263,Emma Davis,Female,Customer Service Rep,58,2022-11-25
+264,Henry Williams,Male,Store Manager,24,2022-10-26
+265,Henry Jones,Male,Sales Associate,20,2020-11-27
+266,William Johnson,Male,Supervisor,37,2021-02-06
+267,Charlotte Martinez,Female,Stock Associate,39,2020-07-10
+268,Alexander Williams,Male,Customer Service Rep,20,2023-07-02
+269,Luna Smith,Female,Cashier,6,2020-04-03
+270,Amelia Martinez,Female,Customer Service Rep,54,2020-03-03
+271,Sophia Brown,Female,Customer Service Rep,62,2022-04-11
+272,Emma Williams,Female,Store Manager,8,2022-05-01
+273,Amelia Martinez,Female,Sales Associate,44,2021-10-02
+274,Mia Garcia,Female,Stock Associate,17,2023-02-24
+275,Amelia Johnson,Female,Supervisor,60,2022-07-09
+276,Noah Jones,Male,Store Manager,7,2024-11-04
+277,Amelia Garcia,Female,Stock Associate,21,2024-01-16
+278,Oliver Rodriguez,Male,Store Manager,64,2022-10-18
+279,Olivia Miller,Female,Stock Associate,12,2022-07-25
+280,Alexander Smith,Male,Cashier,46,2021-07-30
+281,Sophia Johnson,Female,Store Manager,2,2020-10-01
+282,Mia Smith,Female,Store Manager,47,2020-04-14
+283,William Johnson,Male,Store Manager,37,2022-10-29
+284,Luna Williams,Female,Cashier,16,2022-03-17
+285,Harper Williams,Female,Sales Associate,47,2023-05-18
+286,Harper Smith,Female,Cashier,6,2020-10-07
+287,Harper Williams,Female,Stock Associate,59,2025-01-03
+288,William Williams,Male,Store Manager,41,2023-06-16
+289,Harper Martinez,Female,Supervisor,63,2022-08-30
+290,Isabella Miller,Female,Stock Associate,15,2021-09-22
+291,Alexander Jones,Male,Customer Service Rep,61,2024-05-22
+292,Liam Williams,Male,Stock Associate,62,2023-07-12
+293,Charlotte Smith,Female,Stock Associate,32,2023-12-05
+294,Liam Garcia,Male,Store Manager,57,2020-11-06
+295,Benjamin Smith,Male,Customer Service Rep,61,2020-10-09
+296,Henry Davis,Male,Stock Associate,42,2022-02-10
+297,Lucas Rodriguez,Male,Supervisor,44,2023-10-16
+298,Luna Brown,Female,Sales Associate,62,2021-07-25
+299,Amelia Jones,Female,Customer Service Rep,39,2021-02-28
+300,Evelyn Rodriguez,Female,Customer Service Rep,45,2021-07-14
+301,Alexander Miller,Male,Supervisor,49,2024-05-02
+302,Olivia Johnson,Female,Supervisor,37,2022-06-24
+303,Evelyn Brown,Female,Stock Associate,28,2021-07-09
+304,Charlotte Martinez,Female,Customer Service Rep,14,2023-04-16
+305,Liam Brown,Male,Cashier,29,2020-07-24
+306,Evelyn Williams,Female,Cashier,13,2023-02-01
+307,Evelyn Brown,Female,Supervisor,62,2021-10-19
+308,Noah Rodriguez,Male,Customer Service Rep,30,2024-01-20
+309,Benjamin Smith,Male,Store Manager,23,2024-06-01
+310,James Smith,Male,Supervisor,5,2023-03-09
+311,William Davis,Male,Customer Service Rep,37,2023-01-17
+312,Charlotte Jones,Female,Sales Associate,60,2024-07-14
+313,Charlotte Jones,Female,Customer Service Rep,59,2021-01-16
+314,Sophia Williams,Female,Stock Associate,25,2024-10-19
+315,Mia Johnson,Female,Store Manager,42,2023-10-02
+316,Oliver Garcia,Male,Sales Associate,62,2020-01-14
+317,Amelia Jones,Female,Supervisor,58,2021-09-10
+318,James Brown,Male,Cashier,47,2023-09-29
+319,Sophia Miller,Female,Customer Service Rep,21,2022-10-26
+320,James Martinez,Male,Sales Associate,48,2021-03-24
+321,Charlotte Martinez,Female,Supervisor,59,2022-05-01
+322,Harper Brown,Female,Customer Service Rep,28,2024-03-25
+323,Henry Rodriguez,Male,Customer Service Rep,58,2022-01-10
+324,Liam Martinez,Male,Stock Associate,26,2020-11-02
+325,Harper Johnson,Female,Customer Service Rep,57,2021-02-24
+326,Emma Smith,Female,Store Manager,58,2020-09-27
+327,Evelyn Rodriguez,Female,Store Manager,8,2023-10-09
+328,Benjamin Smith,Male,Customer Service Rep,33,2021-03-22
+329,Liam Garcia,Male,Customer Service Rep,55,2020-05-10
+330,Noah Smith,Male,Supervisor,61,2022-04-17
+331,Benjamin Miller,Male,Store Manager,48,2024-11-15
+332,Emma Garcia,Female,Cashier,18,2020-12-31
+333,Harper Brown,Female,Cashier,17,2024-03-28
+334,Evelyn Rodriguez,Female,Store Manager,55,2024-08-13
+335,Lucas Williams,Male,Supervisor,45,2021-01-21
+336,Benjamin Brown,Male,Sales Associate,3,2020-05-17
+337,Lucas Brown,Male,Customer Service Rep,7,2020-03-31
+338,Amelia Smith,Female,Sales Associate,28,2022-10-28
+339,Alexander Martinez,Male,Stock Associate,41,2024-05-01
+340,James Rodriguez,Male,Sales Associate,19,2022-04-26
+341,Olivia Miller,Female,Stock Associate,23,2022-10-12
+342,Mia Miller,Female,Store Manager,41,2020-11-01
+343,Charlotte Brown,Female,Sales Associate,61,2021-09-07
+344,Olivia Miller,Female,Stock Associate,53,2022-12-21
+345,Amelia Brown,Female,Supervisor,33,2023-08-17
+346,Isabella Rodriguez,Female,Customer Service Rep,12,2024-08-25
+347,James Martinez,Male,Stock Associate,49,2020-03-21
+348,Alexander Davis,Male,Sales Associate,28,2024-11-15
+349,Olivia Brown,Female,Customer Service Rep,28,2020-08-28
+350,Alexander Miller,Male,Sales Associate,27,2023-02-04
+351,Mia Rodriguez,Female,Customer Service Rep,60,2022-01-05
+352,Isabella Davis,Female,Cashier,64,2024-07-02
+353,Amelia Garcia,Female,Store Manager,48,2020-04-03
+354,Oliver Jones,Male,Stock Associate,3,2023-04-11
+355,Sophia Brown,Female,Supervisor,20,2021-04-16
+356,Lucas Jones,Male,Store Manager,44,2024-01-21
+357,Evelyn Garcia,Female,Sales Associate,22,2020-10-13
+358,Charlotte Rodriguez,Female,Cashier,8,2024-09-14
+359,Liam Williams,Male,Customer Service Rep,53,2021-04-18
+360,Liam Rodriguez,Male,Store Manager,28,2022-02-03
+361,Evelyn Smith,Female,Stock Associate,3,2023-02-03
+362,Liam Rodriguez,Male,Supervisor,36,2020-02-05
+363,Charlotte Johnson,Female,Stock Associate,14,2020-10-31
+364,Alexander Garcia,Male,Supervisor,33,2024-06-16
+365,William Davis,Male,Stock Associate,52,2021-05-13
+366,Emma Johnson,Female,Store Manager,5,2022-02-15
+367,Olivia Williams,Female,Cashier,2,2022-10-20
+368,Luna Rodriguez,Female,Cashier,13,2021-04-15
+369,Sophia Johnson,Female,Customer Service Rep,6,2021-07-28
+370,Oliver Smith,Male,Sales Associate,41,2023-04-17
+371,Emma Williams,Female,Stock Associate,39,2021-05-07
+372,Harper Miller,Female,Customer Service Rep,43,2020-10-13
+373,Olivia Miller,Female,Sales Associate,13,2024-09-13
+374,Luna Garcia,Female,Cashier,51,2023-07-22
+375,Evelyn Garcia,Female,Stock Associate,30,2022-02-07
+376,Alexander Johnson,Male,Stock Associate,49,2021-08-27
+377,Noah Williams,Male,Store Manager,35,2023-12-28
+378,Benjamin Garcia,Male,Cashier,41,2020-07-06
+379,Evelyn Jones,Female,Cashier,47,2020-09-28
+380,Benjamin Rodriguez,Male,Stock Associate,58,2022-11-15
+381,Liam Garcia,Male,Stock Associate,12,2020-07-09
+382,Mia Jones,Female,Store Manager,2,2022-03-05
+383,Alexander Miller,Male,Sales Associate,22,2020-10-11
+384,Sophia Williams,Female,Cashier,64,2020-12-08
+385,Mia Davis,Female,Cashier,39,2022-01-09
+386,Lucas Davis,Male,Cashier,26,2020-10-04
+387,Benjamin Martinez,Male,Store Manager,43,2024-07-04
+388,Isabella Martinez,Female,Sales Associate,56,2021-09-07
+389,Lucas Williams,Male,Store Manager,41,2021-10-15
+390,Luna Garcia,Female,Store Manager,32,2021-07-28
+391,Emma Martinez,Female,Stock Associate,26,2021-01-03
+392,Lucas Davis,Male,Supervisor,27,2024-08-29
+393,Evelyn Jones,Female,Sales Associate,18,2021-06-01
+394,Benjamin Johnson,Male,Store Manager,49,2023-05-09
+395,Harper Rodriguez,Female,Cashier,54,2024-06-07
+396,Noah Garcia,Male,Sales Associate,32,2023-08-18
+397,Alexander Garcia,Male,Store Manager,52,2020-08-04
+398,James Rodriguez,Male,Customer Service Rep,29,2022-11-28
+399,Lucas Miller,Male,Store Manager,48,2024-04-30
+400,William Davis,Male,Cashier,4,2021-08-28
+401,Noah Garcia,Male,Supervisor,19,2021-12-03
+402,Henry Garcia,Male,Store Manager,62,2020-07-18
+403,Isabella Jones,Female,Cashier,9,2024-07-17
+404,William Williams,Male,Customer Service Rep,14,2021-05-14
+405,Henry Garcia,Male,Stock Associate,21,2022-05-23
+406,Benjamin Williams,Male,Customer Service Rep,24,2023-09-08
+407,Olivia Davis,Female,Stock Associate,26,2022-05-29
+408,Elijah Jones,Male,Customer Service Rep,27,2024-07-14
+409,Henry Garcia,Male,Supervisor,24,2021-02-07
+410,James Rodriguez,Male,Customer Service Rep,63,2021-10-03
+411,Luna Martinez,Female,Cashier,51,2021-12-13
+412,Luna Jones,Female,Stock Associate,23,2023-04-23
+413,William Brown,Male,Supervisor,16,2020-08-27
+414,Charlotte Miller,Female,Stock Associate,50,2020-10-09
+415,Mia Davis,Female,Customer Service Rep,24,2023-01-05
+416,Henry Davis,Male,Supervisor,22,2020-10-14
+417,Evelyn Garcia,Female,Cashier,7,2022-09-19
+418,Benjamin Miller,Male,Customer Service Rep,64,2022-10-04
+419,Evelyn Johnson,Female,Stock Associate,22,2020-03-04
+420,Olivia Brown,Female,Stock Associate,36,2021-08-14
+421,Luna Rodriguez,Female,Stock Associate,64,2020-08-19
+422,James Rodriguez,Male,Cashier,47,2024-04-05
+423,Benjamin Brown,Male,Supervisor,14,2024-11-26
+424,Sophia Johnson,Female,Store Manager,45,2024-11-07
+425,Elijah Martinez,Male,Customer Service Rep,45,2022-05-26
+426,Elijah Smith,Male,Stock Associate,27,2021-12-19
+427,Luna Garcia,Female,Customer Service Rep,22,2021-08-22
+428,Harper Williams,Female,Store Manager,13,2020-05-01
+429,Oliver Williams,Male,Customer Service Rep,32,2021-10-21
+430,Evelyn Martinez,Female,Customer Service Rep,19,2021-07-04
+431,Mia Johnson,Female,Customer Service Rep,58,2024-06-15
+432,Harper Garcia,Female,Store Manager,36,2022-09-26
+433,Noah Garcia,Male,Cashier,59,2024-06-17
+434,Amelia Brown,Female,Store Manager,55,2021-07-03
+435,Isabella Martinez,Female,Store Manager,17,2024-06-02
+436,Liam Davis,Male,Cashier,13,2020-09-11
+437,Evelyn Miller,Female,Sales Associate,1,2023-11-11
+438,Charlotte Johnson,Female,Customer Service Rep,36,2022-01-08
+439,William Smith,Male,Store Manager,22,2023-07-05
+440,Benjamin Johnson,Male,Cashier,12,2021-03-13
+441,Oliver Rodriguez,Male,Customer Service Rep,29,2022-06-30
+442,William Miller,Male,Customer Service Rep,16,2020-09-27
+443,Elijah Johnson,Male,Customer Service Rep,50,2024-07-08
+444,William Jones,Male,Sales Associate,48,2022-02-22
+445,Noah Martinez,Male,Customer Service Rep,2,2020-12-02
+446,Amelia Miller,Female,Stock Associate,20,2023-11-07
+447,Noah Williams,Male,Cashier,13,2023-04-22
+448,Mia Williams,Female,Sales Associate,41,2021-07-21
+449,Elijah Smith,Male,Customer Service Rep,37,2024-11-28
+450,Henry Miller,Male,Supervisor,25,2023-08-16
+451,Lucas Johnson,Male,Sales Associate,50,2022-10-20
+452,Henry Garcia,Male,Supervisor,2,2020-09-27
+453,Isabella Davis,Female,Cashier,23,2020-02-04
+454,Liam Brown,Male,Cashier,34,2020-05-03
+455,Harper Miller,Female,Customer Service Rep,54,2022-04-03
+456,James Jones,Male,Cashier,11,2022-11-13
+457,Henry Miller,Male,Stock Associate,42,2023-07-23
+458,James Brown,Male,Cashier,56,2021-05-15
+459,Emma Martinez,Female,Stock Associate,59,2020-04-22
+460,Noah Williams,Male,Customer Service Rep,2,2020-01-24
+461,Isabella Williams,Female,Supervisor,34,2020-09-16
+462,Liam Miller,Male,Supervisor,43,2022-12-08
+463,Luna Davis,Female,Store Manager,10,2022-11-12
+464,Lucas Garcia,Male,Sales Associate,22,2021-06-06
+465,Elijah Smith,Male,Cashier,1,2021-05-15
+466,Isabella Williams,Female,Sales Associate,50,2024-10-22
+467,Amelia Brown,Female,Store Manager,42,2024-01-15
+468,Emma Johnson,Female,Stock Associate,48,2023-10-10
+469,Elijah Miller,Male,Cashier,6,2024-12-01
+470,Sophia Johnson,Female,Stock Associate,42,2022-07-24
+471,Amelia Martinez,Female,Supervisor,38,2024-02-23
+472,Lucas Martinez,Male,Store Manager,48,2024-05-01
+473,Oliver Miller,Male,Cashier,1,2021-04-22
+474,Olivia Smith,Female,Customer Service Rep,43,2022-02-09
+475,Elijah Miller,Male,Store Manager,31,2020-05-02
+476,Emma Brown,Female,Stock Associate,6,2022-04-25
+477,Emma Rodriguez,Female,Sales Associate,13,2023-07-29
+478,Alexander Miller,Male,Customer Service Rep,8,2020-09-24
+479,Sophia Miller,Female,Customer Service Rep,41,2024-08-30
+480,Evelyn Brown,Female,Cashier,35,2021-02-19
+481,Oliver Williams,Male,Store Manager,14,2022-08-12
+482,Emma Brown,Female,Store Manager,46,2021-09-23
+483,Emma Williams,Female,Customer Service Rep,12,2021-09-15
+484,Elijah Williams,Male,Cashier,42,2023-12-27
+485,Mia Jones,Female,Supervisor,7,2024-08-06
+486,Benjamin Rodriguez,Male,Customer Service Rep,58,2023-01-31
+487,Lucas Williams,Male,Cashier,14,2020-01-25
+488,Oliver Miller,Male,Supervisor,26,2023-11-06
+489,Alexander Johnson,Male,Cashier,34,2020-05-12
+490,Charlotte Garcia,Female,Cashier,12,2020-03-28
+491,Oliver Miller,Male,Store Manager,56,2020-03-01
+492,Charlotte Brown,Female,Sales Associate,46,2021-07-17
+493,Charlotte Martinez,Female,Stock Associate,5,2023-06-17
+494,Evelyn Rodriguez,Female,Store Manager,53,2020-05-04
+495,Mia Miller,Female,Sales Associate,18,2023-08-09
+496,Henry Miller,Male,Customer Service Rep,3,2022-01-05
+497,Isabella Miller,Female,Supervisor,42,2021-01-03
+498,Luna Smith,Female,Supervisor,29,2020-04-29
+499,Luna Williams,Female,Cashier,30,2021-05-22
+500,James Brown,Male,Stock Associate,8,2024-09-29
+501,Charlotte Brown,Female,Stock Associate,23,2021-10-13
+502,William Martinez,Male,Sales Associate,19,2024-09-09
+503,Charlotte Smith,Female,Cashier,63,2020-04-25
+504,Liam Smith,Male,Supervisor,62,2023-06-11
+505,William Garcia,Male,Cashier,23,2020-02-14
+506,Noah Johnson,Male,Supervisor,47,2023-12-13
+507,William Garcia,Male,Sales Associate,39,2020-11-18
+508,Isabella Rodriguez,Female,Customer Service Rep,23,2024-12-26
+509,Amelia Miller,Female,Supervisor,23,2024-02-12
+510,Oliver Martinez,Male,Store Manager,1,2024-10-08
+511,Oliver Martinez,Male,Sales Associate,41,2023-08-02
+512,Lucas Garcia,Male,Customer Service Rep,19,2020-06-08
+513,Isabella Johnson,Female,Customer Service Rep,22,2023-10-04
+514,Evelyn Jones,Female,Sales Associate,2,2021-05-26
+515,Sophia Smith,Female,Cashier,14,2022-03-01
+516,Charlotte Davis,Female,Store Manager,53,2021-12-20
+517,Emma Martinez,Female,Customer Service Rep,62,2024-04-01
+518,Lucas Smith,Male,Supervisor,10,2020-02-11
+519,Emma Garcia,Female,Sales Associate,10,2024-12-23
+520,Noah Garcia,Male,Stock Associate,12,2023-06-10
+521,Benjamin Martinez,Male,Store Manager,22,2020-11-17
+522,William Brown,Male,Store Manager,27,2023-11-28
+523,Sophia Brown,Female,Cashier,39,2020-04-11
+524,Charlotte Garcia,Female,Cashier,7,2022-05-25
+525,Luna Brown,Female,Cashier,62,2020-02-22
+526,James Davis,Male,Cashier,11,2021-09-23
+527,Evelyn Johnson,Female,Customer Service Rep,34,2023-01-19
+528,William Garcia,Male,Sales Associate,49,2022-07-01
+529,Evelyn Jones,Female,Sales Associate,60,2024-09-10
+530,Oliver Johnson,Male,Customer Service Rep,13,2021-12-05
+531,Luna Rodriguez,Female,Cashier,30,2024-09-17
+532,Harper Martinez,Female,Sales Associate,61,2022-09-02
+533,Benjamin Rodriguez,Male,Stock Associate,5,2025-01-18
+534,Noah Williams,Male,Sales Associate,58,2021-03-09
+535,Liam Johnson,Male,Customer Service Rep,55,2022-06-10
+536,Alexander Garcia,Male,Customer Service Rep,34,2024-07-11
+537,Benjamin Rodriguez,Male,Supervisor,51,2024-10-20
+538,Olivia Johnson,Female,Store Manager,54,2020-11-02
+539,Noah Jones,Male,Stock Associate,13,2024-12-07
+540,Sophia Davis,Female,Stock Associate,50,2023-06-01
+541,Oliver Miller,Male,Sales Associate,36,2023-06-20
+542,Olivia Garcia,Female,Customer Service Rep,51,2021-05-01
+543,Sophia Smith,Female,Supervisor,48,2024-08-01
+544,Sophia Johnson,Female,Sales Associate,63,2020-10-02
+545,Isabella Miller,Female,Stock Associate,35,2023-08-15
+546,Lucas Miller,Male,Customer Service Rep,28,2022-09-19
+547,Olivia Johnson,Female,Supervisor,21,2023-12-24
+548,Charlotte Williams,Female,Sales Associate,4,2024-11-27
+549,Elijah Davis,Male,Cashier,5,2022-01-08
+550,Isabella Rodriguez,Female,Store Manager,60,2023-07-25
+551,Elijah Davis,Male,Stock Associate,48,2022-07-02
+552,Luna Garcia,Female,Sales Associate,45,2024-09-11
+553,James Miller,Male,Cashier,4,2020-11-29
+554,Elijah Brown,Male,Supervisor,29,2023-08-27
+555,Liam Williams,Male,Customer Service Rep,61,2020-12-20
+556,Elijah Martinez,Male,Supervisor,33,2023-12-30
+557,Mia Garcia,Female,Store Manager,49,2021-05-31
+558,Sophia Martinez,Female,Cashier,51,2020-01-16
+559,Harper Jones,Female,Customer Service Rep,37,2020-08-09
+560,William Garcia,Male,Supervisor,36,2021-06-18
+561,Amelia Rodriguez,Female,Sales Associate,20,2025-01-16
+562,Isabella Smith,Female,Customer Service Rep,18,2022-10-15
+563,Mia Miller,Female,Customer Service Rep,52,2020-03-13
+564,William Rodriguez,Male,Customer Service Rep,29,2024-05-26
+565,Harper Williams,Female,Customer Service Rep,39,2024-11-30
+566,James Davis,Male,Sales Associate,13,2024-02-26
+567,William Brown,Male,Supervisor,12,2021-04-02
+568,Isabella Jones,Female,Stock Associate,48,2021-08-25
+569,Lucas Martinez,Male,Stock Associate,7,2023-06-25
+570,Amelia Miller,Female,Stock Associate,16,2021-09-03
+571,Oliver Brown,Male,Supervisor,18,2022-04-18
+572,Charlotte Williams,Female,Cashier,41,2022-09-25
+573,William Smith,Male,Store Manager,8,2021-07-14
+574,Alexander Davis,Male,Cashier,21,2020-09-22
+575,Mia Miller,Female,Store Manager,52,2022-02-24
+576,Henry Garcia,Male,Cashier,26,2024-12-31
+577,Liam Brown,Male,Sales Associate,1,2023-11-21
+578,Charlotte Miller,Female,Stock Associate,14,2023-04-20
+579,Noah Jones,Male,Supervisor,6,2022-07-22
+580,Mia Garcia,Female,Store Manager,18,2022-01-05
+581,Benjamin Brown,Male,Sales Associate,3,2024-01-29
+582,Liam Johnson,Male,Supervisor,22,2023-12-27
+583,Benjamin Rodriguez,Male,Stock Associate,33,2020-04-09
+584,Noah Smith,Male,Customer Service Rep,3,2020-08-25
+585,Mia Rodriguez,Female,Supervisor,16,2022-08-29
+586,Liam Miller,Male,Customer Service Rep,39,2020-07-25
+587,Luna Miller,Female,Cashier,18,2022-11-13
+588,James Johnson,Male,Store Manager,15,2021-02-10
+589,James Garcia,Male,Customer Service Rep,26,2022-04-19
+590,Liam Brown,Male,Customer Service Rep,64,2022-09-11
+591,Liam Johnson,Male,Cashier,2,2024-09-06
+592,Charlotte Rodriguez,Female,Cashier,12,2024-01-21
+593,Amelia Jones,Female,Supervisor,59,2022-08-08
+594,Oliver Jones,Male,Supervisor,6,2024-06-29
+595,Emma Smith,Female,Cashier,13,2024-10-10
+596,William Davis,Male,Stock Associate,46,2021-07-03
+597,Isabella Johnson,Female,Store Manager,24,2022-03-30
+598,Mia Miller,Female,Customer Service Rep,62,2024-12-19
+599,Oliver Williams,Male,Cashier,8,2022-05-02
+600,Luna Williams,Female,Stock Associate,57,2022-02-16
+601,Oliver Davis,Male,Cashier,62,2024-12-22
+602,Olivia Jones,Female,Customer Service Rep,9,2021-10-05
+603,William Miller,Male,Customer Service Rep,13,2024-01-28
+604,Isabella Williams,Female,Stock Associate,50,2024-12-31
+605,Liam Rodriguez,Male,Store Manager,21,2024-10-10
+606,Noah Garcia,Male,Sales Associate,63,2021-11-08
+607,Henry Rodriguez,Male,Customer Service Rep,29,2022-02-14
+608,Noah Davis,Male,Stock Associate,59,2022-07-06
+609,Evelyn Johnson,Female,Store Manager,41,2024-03-06
+610,Noah Miller,Male,Cashier,52,2023-02-15
+611,Noah Rodriguez,Male,Stock Associate,39,2021-02-27
+612,Isabella Smith,Female,Sales Associate,47,2024-09-25
+613,Harper Garcia,Female,Customer Service Rep,61,2022-07-15
+614,Elijah Garcia,Male,Supervisor,1,2024-08-26
+615,Harper Johnson,Female,Cashier,48,2025-01-10
+616,Charlotte Johnson,Female,Supervisor,53,2023-06-05
+617,Noah Brown,Male,Store Manager,51,2024-08-15
+618,Emma Smith,Female,Customer Service Rep,54,2024-09-11
+619,Lucas Martinez,Male,Stock Associate,59,2020-10-02
+620,Henry Rodriguez,Male,Store Manager,7,2024-09-13
+621,Harper Martinez,Female,Sales Associate,23,2024-02-05
+622,Benjamin Rodriguez,Male,Store Manager,42,2022-05-07
+623,James Garcia,Male,Supervisor,51,2022-07-16
+624,Benjamin Rodriguez,Male,Supervisor,39,2023-12-28
+625,Elijah Martinez,Male,Customer Service Rep,27,2021-08-18
+626,Oliver Johnson,Male,Supervisor,42,2023-02-25
+627,Harper Miller,Female,Cashier,37,2022-12-06
+628,Benjamin Smith,Male,Customer Service Rep,19,2020-04-25
+629,Charlotte Jones,Female,Sales Associate,37,2024-09-15
+630,Amelia Garcia,Female,Store Manager,5,2020-07-28
+631,Henry Brown,Male,Stock Associate,50,2024-05-25
+632,Benjamin Miller,Male,Customer Service Rep,50,2021-10-02
+633,Liam Brown,Male,Stock Associate,33,2024-11-14
+634,William Brown,Male,Supervisor,26,2022-07-08
+635,Oliver Rodriguez,Male,Cashier,23,2022-02-11
+636,Sophia Williams,Female,Sales Associate,34,2023-04-11
+637,William Williams,Male,Cashier,60,2020-11-10
+638,Alexander Davis,Male,Stock Associate,39,2023-01-31
+639,William Williams,Male,Stock Associate,29,2020-05-19
+640,Benjamin Johnson,Male,Supervisor,52,2021-03-29
+641,Isabella Jones,Female,Sales Associate,47,2024-03-21
+642,Harper Johnson,Female,Customer Service Rep,2,2021-12-09
+643,Alexander Smith,Male,Customer Service Rep,32,2024-12-18
+644,Emma Jones,Female,Stock Associate,50,2024-01-22
+645,Henry Rodriguez,Male,Stock Associate,48,2022-07-01
+646,James Garcia,Male,Stock Associate,25,2020-06-17
+647,Henry Johnson,Male,Sales Associate,1,2023-10-04
+648,Benjamin Brown,Male,Stock Associate,14,2024-08-24
+649,Oliver Davis,Male,Customer Service Rep,4,2021-11-10
+650,Noah Williams,Male,Supervisor,7,2023-02-16
+651,James Miller,Male,Store Manager,53,2023-07-14
+652,Isabella Miller,Female,Customer Service Rep,3,2020-08-30
+653,Alexander Martinez,Male,Cashier,9,2023-12-06
+654,Harper Jones,Female,Customer Service Rep,14,2021-09-09
+655,James Miller,Male,Store Manager,57,2024-08-10
+656,Charlotte Williams,Female,Customer Service Rep,29,2022-03-11
+657,Charlotte Garcia,Female,Cashier,39,2023-02-07
+658,Noah Smith,Male,Stock Associate,6,2023-05-06
+659,James Garcia,Male,Sales Associate,27,2022-04-25
+660,Oliver Brown,Male,Stock Associate,24,2024-09-05
+661,Noah Martinez,Male,Cashier,24,2024-10-09
+662,Harper Jones,Female,Customer Service Rep,10,2020-05-17
+663,Elijah Garcia,Male,Supervisor,63,2020-09-19
+664,Noah Martinez,Male,Cashier,37,2025-01-17
+665,Evelyn Garcia,Female,Stock Associate,58,2023-09-12
+666,Alexander Garcia,Male,Store Manager,47,2020-12-11
+667,Amelia Miller,Female,Supervisor,29,2024-09-16
+668,William Davis,Male,Store Manager,62,2022-01-04
+669,Harper Williams,Female,Customer Service Rep,14,2023-05-27
+670,Charlotte Jones,Female,Customer Service Rep,26,2024-12-20
+671,Noah Rodriguez,Male,Customer Service Rep,3,2020-03-04
+672,Luna Smith,Female,Stock Associate,28,2021-06-17
+673,Charlotte Miller,Female,Sales Associate,47,2024-12-30
+674,Charlotte Rodriguez,Female,Stock Associate,60,2020-07-04
+675,Harper Brown,Female,Stock Associate,2,2023-11-02
+676,Lucas Williams,Male,Stock Associate,21,2023-03-04
+677,Isabella Brown,Female,Store Manager,6,2021-04-19
+678,Isabella Smith,Female,Customer Service Rep,30,2021-02-27
+679,Mia Davis,Female,Cashier,61,2020-03-22
+680,Emma Jones,Female,Stock Associate,36,2023-01-19
+681,Benjamin Garcia,Male,Stock Associate,49,2023-08-31
+682,Mia Rodriguez,Female,Store Manager,29,2021-12-23
+683,Evelyn Rodriguez,Female,Sales Associate,1,2022-06-19
+684,Noah Brown,Male,Sales Associate,36,2021-01-17
+685,Luna Brown,Female,Store Manager,16,2024-07-19
+686,Lucas Davis,Male,Sales Associate,62,2023-04-24
+687,Olivia Smith,Female,Sales Associate,32,2023-03-20
+688,Oliver Martinez,Male,Sales Associate,6,2020-04-24
+689,Charlotte Martinez,Female,Stock Associate,52,2023-07-29
+690,Emma Davis,Female,Stock Associate,28,2022-08-23
+691,Elijah Martinez,Male,Sales Associate,53,2024-06-15
+692,Alexander Williams,Male,Customer Service Rep,34,2023-11-05
+693,Luna Brown,Female,Store Manager,9,2022-02-28
+694,Liam Rodriguez,Male,Stock Associate,26,2023-11-02
+695,Alexander Williams,Male,Store Manager,13,2025-01-20
+696,Henry Johnson,Male,Store Manager,16,2023-09-12
+697,Benjamin Garcia,Male,Cashier,54,2023-11-29
+698,Amelia Miller,Female,Supervisor,62,2023-04-21
+699,Benjamin Jones,Male,Store Manager,18,2024-04-17
+700,James Jones,Male,Sales Associate,53,2020-01-12
+701,Henry Miller,Male,Customer Service Rep,1,2021-02-24
+702,Isabella Williams,Female,Store Manager,14,2023-08-27
+703,Sophia Martinez,Female,Supervisor,55,2023-06-07
+704,Amelia Rodriguez,Female,Stock Associate,53,2022-09-15
+705,Harper Jones,Female,Supervisor,62,2023-03-29
+706,Charlotte Brown,Female,Store Manager,16,2024-05-22
+707,Elijah Garcia,Male,Stock Associate,52,2023-06-11
+708,Benjamin Johnson,Male,Sales Associate,1,2022-08-23
+709,Emma Jones,Female,Sales Associate,9,2022-01-29
+710,Benjamin Martinez,Male,Customer Service Rep,52,2022-12-03
+711,Oliver Davis,Male,Cashier,64,2021-02-17
+712,Amelia Martinez,Female,Stock Associate,5,2022-11-22
+713,Liam Brown,Male,Customer Service Rep,47,2020-01-01
+714,James Garcia,Male,Customer Service Rep,52,2022-03-20
+715,Henry Johnson,Male,Cashier,2,2023-01-30
+716,Isabella Brown,Female,Stock Associate,36,2021-02-02
+717,Luna Jones,Female,Sales Associate,1,2022-04-13
+718,Henry Rodriguez,Male,Supervisor,10,2021-11-27
+719,Harper Davis,Female,Store Manager,33,2023-02-27
+720,William Davis,Male,Stock Associate,59,2024-10-31
+721,Emma Johnson,Female,Store Manager,34,2023-07-21
+722,William Garcia,Male,Stock Associate,53,2023-01-02
+723,Amelia Johnson,Female,Store Manager,37,2023-10-11
+724,Henry Davis,Male,Supervisor,23,2021-12-25
+725,Charlotte Davis,Female,Customer Service Rep,25,2021-02-12
+726,James Brown,Male,Sales Associate,27,2024-09-05
+727,Charlotte Johnson,Female,Cashier,14,2023-10-16
+728,Henry Davis,Male,Supervisor,6,2023-06-25
+729,Luna Davis,Female,Sales Associate,36,2024-04-14
+730,Mia Martinez,Female,Sales Associate,29,2020-04-20
+731,Evelyn Rodriguez,Female,Supervisor,5,2022-03-17
+732,Emma Garcia,Female,Customer Service Rep,59,2020-01-18
+733,Benjamin Garcia,Male,Supervisor,13,2023-06-08
+734,Henry Brown,Male,Supervisor,34,2022-08-23
+735,Isabella Davis,Female,Store Manager,24,2021-03-07
+736,Isabella Jones,Female,Store Manager,52,2021-01-03
+737,Alexander Johnson,Male,Customer Service Rep,30,2021-07-06
+738,Mia Williams,Female,Customer Service Rep,26,2020-11-02
+739,Oliver Davis,Male,Sales Associate,54,2025-01-03
+740,Evelyn Jones,Female,Stock Associate,39,2024-10-24
+741,Benjamin Williams,Male,Cashier,13,2021-03-17
+742,Emma Garcia,Female,Supervisor,58,2022-01-09
+743,Isabella Miller,Female,Cashier,3,2021-12-20
+744,Alexander Jones,Male,Supervisor,23,2021-10-27
+745,Evelyn Miller,Female,Stock Associate,11,2021-08-09
+746,Oliver Miller,Male,Customer Service Rep,44,2023-06-08
+747,Emma Williams,Female,Supervisor,11,2021-04-12
+748,Sophia Martinez,Female,Customer Service Rep,35,2022-03-20
+749,Isabella Miller,Female,Sales Associate,58,2021-01-11
+750,Elijah Johnson,Male,Sales Associate,33,2020-12-07
+751,Noah Davis,Male,Stock Associate,9,2020-04-20
+752,Harper Johnson,Female,Supervisor,11,2023-06-19
+753,Benjamin Brown,Male,Sales Associate,40,2024-02-19
+754,Charlotte Rodriguez,Female,Sales Associate,17,2020-02-28
+755,Isabella Davis,Female,Stock Associate,61,2021-07-11
+756,Charlotte Martinez,Female,Stock Associate,23,2022-07-24
+757,Harper Garcia,Female,Store Manager,40,2023-01-10
+758,Lucas Garcia,Male,Store Manager,40,2021-06-16
+759,Olivia Rodriguez,Female,Sales Associate,1,2021-12-05
+760,Harper Davis,Female,Store Manager,2,2021-09-05
+761,Sophia Smith,Female,Stock Associate,30,2022-02-04
+762,Harper Miller,Female,Sales Associate,56,2020-11-30
+763,Mia Jones,Female,Cashier,29,2022-05-14
+764,Henry Jones,Male,Customer Service Rep,35,2024-03-01
+765,Mia Johnson,Female,Sales Associate,25,2020-10-06
+766,Lucas Jones,Male,Customer Service Rep,58,2023-06-29
+767,William Williams,Male,Cashier,3,2022-12-31
+768,Noah Jones,Male,Sales Associate,37,2024-01-04
+769,Elijah Williams,Male,Cashier,12,2022-10-07
+770,Mia Davis,Female,Supervisor,40,2022-08-07
+771,Emma Smith,Female,Supervisor,19,2024-05-07
+772,Henry Williams,Male,Sales Associate,61,2025-01-08
+773,Olivia Brown,Female,Store Manager,16,2024-04-28
+774,Liam Davis,Male,Customer Service Rep,26,2024-04-27
+775,Lucas Jones,Male,Supervisor,50,2020-11-20
+776,Henry Jones,Male,Store Manager,16,2023-07-31
+777,William Brown,Male,Cashier,7,2021-04-28
+778,Isabella Williams,Female,Supervisor,2,2023-04-12
+779,Amelia Smith,Female,Stock Associate,2,2024-05-23
+780,William Brown,Male,Sales Associate,12,2022-10-20
+781,Olivia Garcia,Female,Customer Service Rep,8,2020-11-11
+782,Oliver Brown,Male,Supervisor,63,2023-02-17
+783,Evelyn Smith,Female,Customer Service Rep,25,2022-02-12
+784,James Davis,Male,Customer Service Rep,6,2022-06-15
+785,Harper Brown,Female,Stock Associate,63,2021-01-17
+786,Isabella Jones,Female,Stock Associate,60,2024-10-28
+787,Noah Davis,Male,Supervisor,20,2024-08-05
+788,Evelyn Rodriguez,Female,Store Manager,1,2024-02-11
+789,Alexander Martinez,Male,Sales Associate,47,2021-10-18
+790,Amelia Rodriguez,Female,Sales Associate,64,2023-06-09
+791,Mia Johnson,Female,Cashier,42,2022-12-07
+792,Liam Williams,Male,Cashier,17,2021-02-17
+793,Amelia Smith,Female,Stock Associate,13,2023-08-07
+794,Harper Smith,Female,Supervisor,33,2021-03-28
+795,Liam Davis,Male,Cashier,27,2022-08-16
+796,William Garcia,Male,Customer Service Rep,54,2020-04-29
+797,Harper Johnson,Female,Supervisor,6,2020-06-08
+798,Noah Rodriguez,Male,Store Manager,30,2021-01-23
+799,Alexander Rodriguez,Male,Customer Service Rep,23,2023-02-17
+800,Alexander Davis,Male,Customer Service Rep,46,2023-09-24
