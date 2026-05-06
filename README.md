@@ -43,19 +43,22 @@ Sources (CSV) → Bronze Layer → Silver Layer → Gold Layer → Power BI
 ## Repository Structure
 
 ```
-├── bronze/
+├── Scripts/
 │   ├── init_database.sql               # Creates DataWarehouse DB and schemas
-│   ├── ddl_bronze.sql                  # Creates all 19 Bronze tables
-│   ├── Procedures_log_Bronze_layer.sql # Bronze load stored procedure
-│   └── Execute_and_check_procedure.sql # Execution and validation script
-│
-├── silver/
-│   ├── ddl_silver.sql                  # Creates all 19 Silver tables
-│   └── proc_load_silver.sql            # Silver transformation stored procedure
-│
-└── gold/
-    ├── ddl_gold.sql                    # Creates dimension and fact tables
-    └── proc_load_gold.sql              # Gold load stored procedure
+│   ├── Bronze/
+│   │   ├── ddl_bronze.sql              # Creates all 19 Bronze tables
+│   │   └── proc_load_bronze.sql        # Bronze load stored procedure
+│   ├── Silver/
+│   │   ├── ddl_silver.sql              # Creates all 19 Silver tables
+│   │   └── proc_load_silver.sql        # Silver transformation stored procedure
+│   └── Gold/
+│       ├── ddl_gold.sql                # Creates dimension and fact tables
+│       ├── proc_load_gold.sql          # Gold refresh stored procedure
+│       ├── run_gold_load.sql           # Executes the Gold refresh
+│       └── validate_gold.sql           # Gold validation checks
+└── tools/
+    ├── run_pd1_docker.sh               # Local PD1 verification helper
+    └── run_pd2_docker.sh               # Local PD2 verification helper
 ```
 
 ---
@@ -66,7 +69,7 @@ Sources (CSV) → Bronze Layer → Silver Layer → Gold Layer → Power BI
 Grain: One row per line item per POS transaction
 
 **Fact Table:** `gold.fact_store_sales`
-**Dimensions:** `dim_date`, `dim_store`, `dim_product`, `dim_customer`, `dim_employee`, `dim_promotion`
+**Dimensions:** `dim_date`, `dim_store`, `dim_register`, `dim_product`, `dim_customer`, `dim_employee`, `dim_promotion`
 
 ### Schema 2 — Online Sales Performance
 Grain: One row per line item per online order
@@ -86,25 +89,31 @@ Run scripts in this order:
 
 ```sql
 -- 1. Initialize database and schemas
-init_database.sql
+Scripts/init_database.sql
 
 -- 2. Create Bronze tables
-bronze/ddl_bronze.sql
+Scripts/Bronze/ddl_bronze.sql
 
--- 3. Load Bronze layer
+-- 3. Create and load Bronze layer
+Scripts/Bronze/proc_load_bronze.sql
 EXEC bronze.load_bronze;
 
 -- 4. Create Silver tables
-silver/ddl_silver.sql
+Scripts/Silver/ddl_silver.sql
 
--- 5. Load Silver layer
+-- 5. Create and load Silver layer
+Scripts/Silver/proc_load_silver.sql
 EXEC silver.load_silver;
 
 -- 6. Create Gold tables
-gold/ddl_gold.sql
+Scripts/Gold/ddl_gold.sql
 
--- 7. Load Gold layer
+-- 7. Create and load Gold layer
+Scripts/Gold/proc_load_gold.sql
 EXEC gold.load_gold;
+
+-- 8. Validate Gold layer
+Scripts/Gold/validate_gold.sql
 ```
 
 ---
